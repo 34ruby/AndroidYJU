@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bascapp3</string>
+    <string name="btn1_text">YJU</string>
+    <string name="btn2_text">Call</string>
+    <string name="btn3_text">Gallery</string>
+    <string name="btn4_text">End</string>
+</resources>
